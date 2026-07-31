@@ -43,13 +43,13 @@ of it is held together with duct tape and hope.
 
 ---
 
-### The contribution snake
+### My contribution graph, but it's a spaceship battle now
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TysonSharma/TysonSharma/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/TysonSharma/TysonSharma/main/game.gif" width="100%">
 
-<sub>(shows up once the snake workflow below is switched on — see setup note)</sub>
+<sub>(shows up once the workflow below is switched on — see setup note)</sub>
 
 </div>
 
